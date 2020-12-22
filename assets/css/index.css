@@ -1816,6 +1816,27 @@ span.description {
 .text-c {
   text-align: left;
 }
+.text-color {
+  color: #2a235d;
+}
+.nav-logo {
+  width: 80%;
+}
+.free-text {
+  color: #46b9b2;
+  font-weight: 700;
+  line-height: 1.5;
+  padding: 0 5px;
+}
+.lg-bttn {
+  padding-bottom: 5px;
+}
+.vw-1 {
+  position: relative;
+  top: 174px;
+  left: -64px;
+  width: 116px;
+}
 
 @media handheld, screen and (max-width: 900px) {
   .img-text {

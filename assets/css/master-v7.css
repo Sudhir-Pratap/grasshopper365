@@ -37,6 +37,7 @@ h5 {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
 h6 {
   font-weight: 400;
   font-size: 13px;
@@ -216,7 +217,7 @@ textarea {
   background-color: #eaeaea;
 }
 .site-color-11-border {
-  border-color: #eaeaea;
+  border-color: #cecece;
 }
 .site-color-12 {
   color: #eaeaea;
@@ -1284,12 +1285,13 @@ textarea {
   color: #000000a6;
 }
 .headermenu ul .menu-item a {
-  font-size: 13px;
+  font-size: 14px;
   transition: 0.3s;
-  font-weight: 300;
+  font-weight: 600;
   display: block;
   padding: 8px 12px 8px 12px;
 }
+
 .headermenu ul .menu-item a:hover {
   text-decoration: none;
 }
@@ -1320,13 +1322,14 @@ textarea {
   background-color: #fff;
 }
 .headermenu ul li ul .menu-item a {
-  color: #0072bc;
+  color: #2a235d;
   font-size: 14px;
   padding: 15px 15px;
   display: block;
   box-sizing: border-box;
   background-color: transparent;
   margin: 0;
+  font-weight: bold;
 }
 .headermenu ul li ul .menu-item a span.sub {
   color: #636363;
@@ -3936,7 +3939,7 @@ ol.wp-paginate li {
   width: 60%;
 }
 .w-65-p {
-  width: 100%;
+  width: 65%;
 }
 .w-66-p {
   width: 66.666666666666666%;
@@ -4792,7 +4795,7 @@ ol.wp-paginate li {
   padding-right: 15px;
 }
 .pd-20 {
-  padding: 0px;
+  padding: 20px;
 }
 .pdt-20 {
   padding-top: 20px;
